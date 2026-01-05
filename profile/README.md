@@ -29,8 +29,8 @@ Checkerly는 씨앗들이 안전하게 자랄 수 있도록 견고한 인프라�
 
 ## 📦 Repositories
 
-- **[📂 Checkerly-Backend](https://github.com/Root/Checkerly-Backend)**: 생태계의 핵심 로직, AI 연동 및 실시간 채팅 엔진
-- **[📂 Checkerly-Frontend](https://github.com/Root/Checkerly-Frontend)**: 씨앗들을 위한 앱 서비스 및 루트 전용 백오피스
+- **[📂 Checkerly-Backend](https://github.com/Checkerly/Checkerly-Backend)**: 생태계의 핵심 로직, AI 연동 및 실시간 채팅 엔진
+- **[📂 Checkerly-Frontend](https://github.com/Checkerly/Checkerly-Frontend)**: 씨앗들을 위한 앱 서비스 및 루트 전용 백오피스
 
 ---
 
